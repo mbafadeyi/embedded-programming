@@ -1,0 +1,11 @@
+# ninja log v5
+0	289	7482793836749457	C:/embedded_programming/01/Debug/Obj/main.o	80238d0182eba500
+290	473	7482793838627475	C:/embedded_programming/01/Debug/Exe/project.out	dd0d900b97731071
+2	45	7482795499997852	C:/embedded_programming/01/Debug/Obj/main.o	80238d0182eba500
+48	88	7482795500470542	C:/embedded_programming/01/Debug/Exe/project.out	dd0d900b97731071
+2	61	7482796335718054	C:/embedded_programming/01/Debug/Obj/main.o	80238d0182eba500
+62	98	7482796336027814	C:/embedded_programming/01/Debug/Exe/project.out	dd0d900b97731071
+2	181	7482797189998361	C:/embedded_programming/01/Debug/Obj/main.o	80238d0182eba500
+183	225	7482797190471853	C:/embedded_programming/01/Debug/Exe/project.out	dd0d900b97731071
+1	157	7482808523384779	C:/embedded_programming/01/Debug/Obj/main.o	80238d0182eba500
+159	189	7482808523851263	C:/embedded_programming/01/Debug/Exe/project.out	dd0d900b97731071

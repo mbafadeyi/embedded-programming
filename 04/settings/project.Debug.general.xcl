@@ -1,0 +1,15 @@
+C:\tools\IAR\arm\bin\armPROC.dll
+
+ C:\tools\IAR\arm\bin\armLMIFTDI.dll
+
+ C:\embedded_programming\04\Debug\Exe\project.out
+
+ --plugin=C:\tools\IAR\arm\bin\armLibSupportUniversal.dll
+
+ --device_macro=C:\tools\IAR\arm/config/debugger/TexasInstruments/LM4F.dmac
+
+ --flash_loader=C:\tools\IAR\arm/config/flashloader/TexasInstruments/FlashLM4FxxxHxx.board
+
+ 
+
+

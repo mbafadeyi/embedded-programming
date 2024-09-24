@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\embedded_programming\02\Debug\Exe\project.out</Path>
+            <Output>
+                <Path>C:\embedded_programming\02\Debug\List\project.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\embedded_programming\01\Debug\Exe\project.out</Path>
+            <Output>
+                <Path>C:\embedded_programming\01\Debug\List\project.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
